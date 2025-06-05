@@ -42,7 +42,7 @@ Os registros foram processados com foco na qualidade e estruturação adequada:
 
 ## Dados Sintéticos Clínicos
 
-Proposta: Criação de casos clínicos usando LLMs para gerar cenários médicos realistas. A ideia seria combinar sintomas, exames e tratamentos com base em diretrizes médicas e nos dados estruturados das consultas que a Voa já processa, criando perguntas do tipo "paciente com X sintomas e Y exames – qual a melhor conduta?". Esses dados sintéticos, revisados por médicos, ajudariam a treinar modelos em situações raras ou em combinações incomuns que são difíceis de encontrar em bases reais, fortalecendo o raciocínio clínico da própria plataforma.
+Proposta: Criar casos clínicos sintéticos usando LLMs para gerar cenários médicos realistas. A ideia seria combinar sintomas, exames e tratamentos com base em diretrizes médicas e nos dados estruturados das consultas que a Voa já processa, criando perguntas do tipo "paciente com X sintomas e Y exames – qual a melhor conduta?". Esses dados sintéticos, revisados por médicos, ajudariam no treinamento/fine-tuning de modelos em situações raras ou combinações incomuns difíceis de encontrar em bases reais, além de permitir criação de benchmarks específicos para as especialidades mais comuns da plataforma.
 
 
 
