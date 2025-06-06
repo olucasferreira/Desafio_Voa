@@ -34,7 +34,7 @@ Os registros foram processados com foco na qualidade e estruturação adequada:
 
 - **temperature=0.0:** Garante respostas determinísticas e reproduzíveis, eliminando aleatoriedade inadequada para análise científica.
 
-- **max_new_tokens=2048:** Valor especificado no desafio, suficiente para o raciocínio nas tags `<think>``<\think>` e a resposta final, sem risco de truncamento.
+- **max_new_tokens=2048:** Valor especificado no desafio, suficiente para o raciocínio nas tags `<think>` `<\think>` e a resposta final, sem risco de truncamento.
 
 - **enable_thinking=True:** Utiliza a funcionalidade nativa do Qwen3 para separar automaticamente o processo de raciocínio da resposta final.
 
