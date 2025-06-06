@@ -4,6 +4,7 @@
 
 Implementação de sistema de classificação para perguntas clínicas baseadas em evidências científicas. O projeto processa dados do PubMedQA, aplica prompt engineering com tags de reasoning e avalia performance do modelo.
 
+#### [Notebook no Google Colab](https://colab.research.google.com/drive/10NlHn-h0wdFJJkeSatcBfueg1IavQ9qy?usp=sharing)
 
 -----------------------
 
